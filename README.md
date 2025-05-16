@@ -1,2 +1,2 @@
 # NeuroJoystickVault
-Code for the paper: Mobile EEG Dataset of Game Controller Use
+Code for the paper: An EEG dataset for motor execution decoding with synchronized muscle activity recordings and real-time demonstration in a virtual environment using deep learning
